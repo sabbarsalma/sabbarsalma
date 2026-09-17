@@ -32,4 +32,4 @@ Building a full-stack TypeScript/Next.js/PostgreSQL project to consolidate what 
 
 ## Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/salma-sabbar) · sabbarsalma7@gmail.com
+[LinkedIn](https://www.linkedin.com/in/salma-sabbar-3b7a6b36a/) · sabbarsalma7@gmail.com
